@@ -1,5 +1,9 @@
 # E-commerce-App
 
+## Websites
+- GitHub Repo: https://github.com/Zoujiejie/E-commerce-App 
+- Demo Video: https://drive.google.com/file/d/1yBmO1rCArGoSVU_HYC42Rc4aZeJFmUUH/view 
+
 ## User Story
 ```md
 AS A manager at an internet retail company
